@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e9e9f0dd02f654eaff219e9400e68d, type: 3}
+  m_Name: ListaPersonajes
+  m_EditorClassIdentifier: 
+  personajes:
+  - objeto_Jugador: {fileID: 1938434633669604785, guid: e89840abe581bde47b29fe8519e7341f, type: 3}
+    nombre_Personaje: Personaje 1
+    descripcion_Personaje: Es un personaje fuerte
+    imagen_referencia: {fileID: 152099449, guid: 6217bed3281b43f49be2a7fb28f8f0ca, type: 3}
+  - objeto_Jugador: {fileID: 4174000216351847131, guid: 8f2ac9e83f8e94d45b562babb7ad69cd, type: 3}
+    nombre_Personaje: Personaje 2
+    descripcion_Personaje: Es un personaje magico
+    imagen_referencia: {fileID: -1371159490, guid: 2d6a3652ebcc0384696112244b354e35, type: 3}
